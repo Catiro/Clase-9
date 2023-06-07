@@ -107,3 +107,7 @@ body{
     background-size: contain;
 }
 
+.greeting{
+    text-align: center;
+    text-size-adjust: 20px;
+}
